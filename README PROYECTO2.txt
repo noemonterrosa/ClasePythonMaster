@@ -8,3 +8,6 @@ Para el proyecto2 de Python los archivos que se crearon son los siguientes:
 
 El video se puede encontrar aqui:
 
+Los archivos se obtuvieron de aqui:
+https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks/versions/328?select=sp500_stocks.csv
+version 328 del 13 de enero 2023
